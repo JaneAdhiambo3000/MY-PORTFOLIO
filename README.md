@@ -1,5 +1,5 @@
 ## project name:
-PORTOLIO
+PORTFOLIO
 
 ## PORTFOLIO
 Here is a working live demo :  
@@ -41,8 +41,7 @@ JS
 
 ## Team
 
-[![Jane Adhiambo](/home/moringa/Desktop/PORTFOLIO/images/sheba3000.jpg)](https://github.com/JaneAdhiambo3000)
-
+Jane Adhiambo
 
 ## [License](https://github.com/JaneAdhiambo3000/WebApp/blob/master/LICENSE.md)
 
