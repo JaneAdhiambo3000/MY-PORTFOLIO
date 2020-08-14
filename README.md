@@ -1,7 +1,7 @@
 ## project name:
-Demo 
+PORTOLIO
 
-## Demo
+## PORTFOLIO
 Here is a working live demo :  
 
 ### Authors name:
@@ -41,7 +41,8 @@ JS
 
 ## Team
 
-Jane Adhiambo
+[![Jane Adhiambo](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/JaneAdhiambo3000)  | [![Quandl.com](/home/moringa/Desktop/PORTFOLIO/images/sheba3000.jpg)]
+
 
 ## [License](https://github.com/JaneAdhiambo3000/WebApp/blob/master/LICENSE.md)
 
