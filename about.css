@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+}
+
+tr ,td ,th{
+    height: 70%;
+    width: 70%;
+    padding: 5px;
+    margin: 0px;
+    border: 1px solid black;
+    
+}
+.gallery{
+    display: flex;
+    height: 300px;
+    width: 300px;
+}
