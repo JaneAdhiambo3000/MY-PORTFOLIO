@@ -41,7 +41,7 @@ JS
 
 ## Team
 
-[![Jane Adhiambo](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/JaneAdhiambo3000)  | [![Quandl.com](/home/moringa/Desktop/PORTFOLIO/images/sheba3000.jpg)]
+[![Jane Adhiambo](/home/moringa/Desktop/PORTFOLIO/images/sheba3000.jpg)](https://github.com/JaneAdhiambo3000)
 
 
 ## [License](https://github.com/JaneAdhiambo3000/WebApp/blob/master/LICENSE.md)
