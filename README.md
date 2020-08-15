@@ -2,7 +2,7 @@
 PORTFOLIO
 
 ## PORTFOLIO
-Here is a working live demo :  
+Here is a working live demo : https://janeadhiambo3000.github.io/MY-PORTFOLIO/ 
 
 ### Authors name:
 
