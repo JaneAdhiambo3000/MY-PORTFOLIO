@@ -46,5 +46,5 @@ JS
 
 ## [License](https://github.com/JaneAdhiambo3000/WebApp/blob/master/LICENSE)
 
-© [MIT](LICENSE.md)
+© [MIT](LICENSE)
 
