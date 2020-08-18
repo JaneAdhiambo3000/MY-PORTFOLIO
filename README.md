@@ -46,5 +46,5 @@ JS
 
 ## [License](https://github.com/JaneAdhiambo3000/WebApp/blob/master/LICENSE.md)
 
-© [MIT](/home/moringa/Desktop/prep/PORTFOLIO/README.md)
+© [MIT](README.md)
 
