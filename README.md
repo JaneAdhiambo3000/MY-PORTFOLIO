@@ -46,5 +46,5 @@ Jane Adhiambo
 
 ## [License](https://github.com/JaneAdhiambo3000/WebApp/blob/master/LICENSE.md)
 
-MIT © [Jane Adhiambo ](https://github.com/JaneAdhiambo3000)
+[MIT ©] [Jane Adhiambo ](https://github.com/JaneAdhiambo3000)
 
