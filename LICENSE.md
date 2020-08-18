@@ -1,4 +1,4 @@
-The Star And Thank Author License (SATA)
+The Star And Thank Author License (MIT)
 
 Copyright (c) [Jane Adhiambo](https://github.com/JaneAdhiambo3000) <shebaz3000@gmail.com>
 
