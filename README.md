@@ -42,9 +42,9 @@ JS
 ## Team
 
 
-[Jane Adhiambo ](https://github.com/JaneAdhiambo3000) |[Quandl](https://www.quandl.com)
+[Jane Adhiambo ](https://github.com/JaneAdhiambo3000) 
 
 ## [License](https://github.com/JaneAdhiambo3000/WebApp/blob/master/LICENSE.md)
 
- [MIT](https://github.com/JaneAdhiambo3000)
+© [MIT](/home/moringa/Desktop/prep/PORTFOLIO/README.md)
 
