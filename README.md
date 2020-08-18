@@ -41,10 +41,10 @@ JS
 
 ## Team
 
-Jane Adhiambo
-[Harsh Vijay ](https://github.com/JaneAdhiambo3000) |[Quandl](https://www.quandl.com)
+
+[Jane Adhiambo ](https://github.com/JaneAdhiambo3000) |[Quandl](https://www.quandl.com)
 
 ## [License](https://github.com/JaneAdhiambo3000/WebApp/blob/master/LICENSE.md)
 
-[MIT ©] [Jane Adhiambo ](https://github.com/JaneAdhiambo3000)
+MIT © [MIT](https://github.com/JaneAdhiambo3000)
 
