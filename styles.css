@@ -1,0 +1,15 @@
+#header{
+    background-image: url(images/1.jpg);
+    background-size: cover;
+    width: 100%;
+}
+
+.major li, h3, h4{
+    color: aqua;
+    font-size: 18px;
+}
+.icons li{
+    align-content: center;
+    display: flex;
+    align-content: space-between;
+}
