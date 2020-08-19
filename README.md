@@ -1,23 +1,23 @@
-## project name:
-PORTFOLIO
+## PORTFOLIO:
+This is a showcase of my projects and my abilities
 
-## PORTFOLIO
+## DEMO
 Here is a working live demo : https://janeadhiambo3000.github.io/MY-PORTFOLIO/ 
 
-### Authors name:
+### AUTHORS NAME:
 
 Jane Adhiambo
 
-### Project Description:
+### PROJECT DESCRIPTION:
 
 This is a project used for demonstration.
 
 
-## Mobile support
+## MOBILE SUPPORT:
 The WebApp is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
 
 
-### Development
+### DEVELOPMENT
 Want to contribute? Great!
 
 To fix a bug or enhance an existing module, follow these steps:
@@ -32,14 +32,14 @@ To fix a bug or enhance an existing module, follow these steps:
 
 
 
-## Built with 
+## BUILT WITH:
 
 HTML
 CSS
 JS
 
 
-## Team
+## TEAM
 
 
 [Jane Adhiambo ](https://github.com/JaneAdhiambo3000) 
