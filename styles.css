@@ -13,3 +13,13 @@
     display: flex;
     align-content: space-between;
 }
+
+h5{
+    color: aqua;
+    font-size: 18px;
+}
+
+inner h1,p{
+    font-size: 18px;
+    font-weight: bolder;
+}
